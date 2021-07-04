@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net"
 	"log"
-	"github.com/crabkun/switcher/core"
-	"github.com/crabkun/switcher/bridge"
+	"github.com/pmoled/switcher/core"
+	"github.com/pmoled/switcher/bridge"
 )
 
 func main(){
